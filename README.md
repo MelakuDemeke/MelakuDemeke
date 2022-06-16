@@ -16,6 +16,16 @@
 </p>
 
 
+## My Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MelakuDemeke&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=MelakuDemeke&count_private=true&theme=buefy&showicons=true)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&langs_count=5&theme=buefy)
+
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Micky373&)
+
+<br />
+
 ## GitHub Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/MelakuDemeke)
