@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=MelakuDemeke)
+<img src="https://img.shields.io/badge/Melaku%20Demeke-is%20Available for a Remote Work-greenyellow" />
 
 
 
@@ -23,7 +24,6 @@
 <img src = "https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
 <img src = "https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white">
 <img src = "https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white">
-<img src = "https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white">
 <img src = "https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white">
 <img src = "https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
 <img src = "https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
