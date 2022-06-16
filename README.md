@@ -8,6 +8,8 @@
 <br>
 
 [![Linkedin: Melaku-Demeke](https://img.shields.io/badge/-Melaku-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melaku-demeke/)](https://www.linkedin.com/in/melaku-demeke/)
+[![GitHub MelakuDemeke](https://img.shields.io/github/followers/MelakuDemeke?label=follow&style=social)](https://github.com/MelakuDemeke)
+
 
 ## GitHub Metrics
 
