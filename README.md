@@ -8,11 +8,11 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/melaku-demeke/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/m314ku/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/melaku-demeke/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a href="https://www.instagram.com/m314ku/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 <a href="https://mailto:melaku.demeke789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 <p align = "center"><a href="https://github.com/MelakuDemeke">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Micky373?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a></p>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Micky373?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/></a></p>
 </p>
 
 
