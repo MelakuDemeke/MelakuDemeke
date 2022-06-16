@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src = "https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white">
 <img src = "https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white">
 <img src = "https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-<img src = "https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">s
+<img src = "https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src = "https://img.shields.io/badge/Cisco-0052CC?style=flat&logo=Cisco&logoColor=white">
 </p>
 
