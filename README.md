@@ -7,8 +7,13 @@
 
 <br>
 
-[![Linkedin: Melaku-Demeke](https://img.shields.io/badge/-Melaku-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melaku-demeke/)](https://www.linkedin.com/in/melaku-demeke/)
-[![GitHub MelakuDemeke](https://img.shields.io/github/followers/MelakuDemeke?label=follow&style=social)](https://github.com/MelakuDemeke)
+<p align="center">
+<a href="https://www.linkedin.com/in/melaku-demek/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/m314ku/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://mailto:melaku.demeke789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<p align = "center"><a href="https://github.com/MelakuDemeke">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Micky373?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a></p>
+</p>
 
 
 ## GitHub Metrics
