@@ -6,6 +6,7 @@
 <h1>Hello, I'm Melaku Demeke<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
 
 <br>
+
 [![Linkedin: Melaku-Demeke](https://img.shields.io/badge/-Melaku-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melaku-demeke/)](https://www.linkedin.com/in/melaku-demeke/)
 
 ## GitHub Metrics
