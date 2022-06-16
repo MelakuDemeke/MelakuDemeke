@@ -3,6 +3,11 @@
 <img src="https://img.shields.io/badge/Melaku%20Demeke-is%20Available for a Remote Work-greenyellow" />
 
 
+<h1>Hello, I'm Melaku Demeke<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
+
+<br>
+
+
 
 ### Hi there 👋
 
