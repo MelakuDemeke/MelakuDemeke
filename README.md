@@ -22,7 +22,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&langs_count=5&theme=buefy)
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Micky373&)
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MelakuDemeke&)
 
 <br />
 
