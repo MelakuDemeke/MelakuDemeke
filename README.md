@@ -65,6 +65,27 @@
             <td><b>🍴 Forks</b></td>
         </tr>
     </thead>
+    <tbody>
+        <td align=center>1</td>
+        <td>
+            <a 
+                href="https://github.com/MelakuDemeke/telebirr-php" 
+                target="_blank">
+                <b>Telebirr Library for PHP</b>
+            </a>
+        </td>
+        <td align=center>PHP</td>
+        <td>
+            <img 
+                alt=Stars
+                src="https://img.shields.io/github/stars/MelakuDemeke/telebirr-php?style=flat-square&labelColor=343b41">
+        </td>
+        <td>
+            <img 
+                alt=Forks
+                src="https://img.shields.io/github/forks/MelakuDemeke/telebirr-php?style=flat-square&labelColor=343b41">
+        </td>
+    </tbody>
 </table>
 
 
