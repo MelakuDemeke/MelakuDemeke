@@ -53,15 +53,18 @@
 | [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/Cyebukayire) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | ![MelakuDemeke](https://github-readme-streak-stats.herokuapp.com/?user=MelakuDemeke&theme=dark) |
 
 <img src="img/aqua.png" width="1000">
-
-
+<p align="center">
+    <h2 align="center">Project</h2>
+</p>
+<img src="img/aqua.png" width="1000">
+<h2 align="center">GitHub Metrics</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MelakuDemeke&theme=algolia" align="center" />
+</p>
 
 </body>
 </html>
 
-## GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/MelakuDemeke)
 
 ## Languages and Tools:  
 
