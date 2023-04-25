@@ -53,20 +53,20 @@
 | [![Melaku Git Status](https://github-readme-stats.vercel.app/api?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/Cyebukayire) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | ![MelakuDemeke](https://github-readme-streak-stats.herokuapp.com/?user=MelakuDemeke&theme=dark) |
 
 <img src="img/aqua.png" width="1000">
-<p align="center">
-    <h2 align="center">Project</h2>
-    <table>
-        <thead>
-            <tr border: none>
-                <td><b>📇 Index</b></td>
-                <td><b>🛄 Projects</b></td>
-                <td><b>👨‍💻 Technology Used</b></td>
-                <td><b>⭐ Stars</b></td>
-                <td><b>🍴 Forks</b></td>
-            </tr>
-        </thead>
-    </table>
-</p>
+
+<h2 align="center">Project</h2>
+<table align="center">
+    <thead align=center>
+        <tr border: none>
+            <td><b>📇 Index</b></td>
+            <td><b>🛄 Projects</b></td>
+            <td><b>👨‍💻 Technology Used</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+        </tr>
+    </thead>
+</table>
+
 
 <img src="img/aqua.png" width="1000">
 <h2 align="center">GitHub Metrics</h2>
