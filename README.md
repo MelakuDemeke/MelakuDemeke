@@ -1,9 +1,20 @@
-![](https://komarev.com/ghpvc/?username=MelakuDemeke)
+<!DOCTYPE html>
+<html>
+<body>
+    <img width=100% src="img/welcome.svg" color="00bfbf">
 
+
+![](https://komarev.com/ghpvc/?username=MelakuDemeke)
 <img src="https://img.shields.io/badge/Melaku%20Demeke-is%20Available for a Remote Work-greenyellow" />
 
+<div align="center">
 
-<h1>Hello, I'm Melaku Demeke<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+software+developer)](https://git.io/typing-svg)
+
+</div>
+
+
+
 
 <br>
 
@@ -15,16 +26,21 @@
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MelakuDemeke?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/></a></p>
 </p>
 
+<img src="img/aqua.png" width="1000">
 
-## My Stats
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MelakuDemeke&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=MelakuDemeke&count_private=true&theme=buefy&showicons=true)
+| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/Cyebukayire) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | ![MelakuDemeke](https://github-readme-streak-stats.herokuapp.com/?user=MelakuDemeke&theme=dark) |
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&langs_count=5&theme=buefy)
+<img src="img/aqua.png" width="1000">
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MelakuDemeke&)
 
-<br />
+
+</body>
+</html>
 
 ## GitHub Metrics
 
