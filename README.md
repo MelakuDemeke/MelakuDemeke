@@ -161,6 +161,11 @@
 </p>
 
 </body>
+<footer>
+	<img 
+        width=100% 
+        src="img/footer.svg"/>
+</footer>
 </html>
 
 
