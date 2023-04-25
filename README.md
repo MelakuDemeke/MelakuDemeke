@@ -3,7 +3,6 @@
 <body>
     <img width=100% src="img/welcome.svg" color="00bfbf">
 
-
 ![](https://komarev.com/ghpvc/?username=MelakuDemeke)
 <img src="https://img.shields.io/badge/Melaku%20Demeke-is%20Available for a Remote Work-greenyellow" />
 
@@ -12,23 +11,41 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+software+developer)](https://git.io/typing-svg)
 
 </div>
-
-
-
-
-<br>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/melaku-demeke/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-<a href="https://www.instagram.com/m314ku/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-<a href="https://mailto:melaku.demeke789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-<p align = "center"><a href="https://github.com/MelakuDemeke">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MelakuDemeke?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/></a></p>
+    <a 
+        href="https://www.linkedin.com/in/melaku-demeke/">
+        <img 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+            target="_blank"/>
+    </a>
+    <a 
+        href="https://www.instagram.com/m314ku/">
+        <img 
+            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" 
+            target="_blank"/>
+        </a>
+    <a 
+        href="https://mailto:melaku.demeke789@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+            target="_blank"/>
+        </a>
+    <p 
+        align="center">
+        <a 
+            href="https://github.com/MelakuDemeke">
+            <img 
+                alt="followers" 
+                title="Follow me on Github" 
+                src="https://img.shields.io/github/followers/MelakuDemeke?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
+                target="_blank"/>
+        </a>
+    </p>
 </p>
 
 <img src="img/aqua.png" width="1000">
-
 <p align="center">
+
  <h2 align="center">My Github Stats</h2>
 
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
