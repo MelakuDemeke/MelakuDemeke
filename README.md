@@ -88,7 +88,7 @@
             </td>
         </tr>
         <tr>
-            <td align=center>1</td>
+            <td align=center>2</td>
             <td>
                 <a 
                     href="https://github.com/MelakuDemeke/telebirr" 
@@ -106,6 +106,48 @@
                 <img 
                     alt=Forks
                     src="https://img.shields.io/github/forks/MelakuDemeke/telebirr?style=flat-square&labelColor=343b41">
+            </td>
+        </tr>
+        <tr>
+            <td align=center>3</td>
+            <td>
+                <a 
+                    href="https://github.com/MelakuDemeke/tindog" 
+                    target="_blank">
+                    <b>tindog tinder clone</b>
+                </a>
+            </td>
+            <td align=center>HTML | CSS | Js | Bootstrap</td>
+            <td>
+                <img 
+                    alt=Stars
+                    src="https://img.shields.io/github/stars/MelakuDemeke/tindog?style=flat-square&labelColor=343b41">
+            </td>
+            <td>
+                <img 
+                    alt=Forks
+                    src="https://img.shields.io/github/forks/MelakuDemeke/tindog?style=flat-square&labelColor=343b41">
+            </td>
+        </tr>
+        <tr>
+            <td align=center>4</td>
+            <td>
+                <a 
+                    href="https://github.com/MelakuDemeke/blog-web" 
+                    target="_blank">
+                    <b>blog-web Helper</b>
+                </a>
+            </td>
+            <td align=center>Node.js | ejs | Mongo | Express</td>
+            <td>
+                <img 
+                    alt=Stars
+                    src="https://img.shields.io/github/stars/MelakuDemeke/blog-web?style=flat-square&labelColor=343b41">
+            </td>
+            <td>
+                <img 
+                    alt=Forks
+                    src="https://img.shields.io/github/forks/MelakuDemeke/blog-web?style=flat-square&labelColor=343b41">
             </td>
         </tr>
     </tbody>
