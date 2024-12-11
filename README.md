@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MelakuDemeke)
 <img src="https://img.shields.io/badge/Melaku%20Demeke-is%20Available for a Remote Work-greenyellow" />
-<a href="https://committers.top/ethiopia#MelakuDemeke" target="blank"><img src="https://user-badge.committers.top/ethiopia/MelakuDemeke.svg" alt="MelakuDemeke" /></a>
+[![committers.top badge](https://user-badge.committers.top/ethiopia_private/MelakuDemeke.svg)](https://user-badge.committers.top/ethiopia_private/MelakuDemeke)
 
 <div align="center">
 
